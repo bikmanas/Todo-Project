@@ -1,4 +1,4 @@
-[LICENSE](https://img.shields.io/badge/license-legit-blue)
+![LICENSE](https://img.shields.io/badge/license-legit-blue)
 ![Status](https://img.shields.io/badge/status-on-green)
 # Todo Project 
 
